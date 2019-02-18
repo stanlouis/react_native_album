@@ -9,6 +9,7 @@ const styles = {
   containerStyle: {
     borderWidth: 1,
     borderRadius: 2,
+    borderWidth: 0.5,
     borderColor: '#ddd',
     borderBottomWidth: 0,
     shadowColor: '#000',
@@ -17,7 +18,7 @@ const styles = {
     shadowRadius: 2,
     elevation: 1,
     marginLeft: 5,
-    marginRight: 10,
+    marginRight: 5,
     marginTop: 10,
   },
 };
