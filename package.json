@@ -8,6 +8,7 @@
   },
   "dependencies": {
     "axios": "^0.18.0",
+    "eslint-plugin-react-native": "^3.6.0",
     "react": "16.6.3",
     "react-native": "0.58.4"
   },
@@ -21,6 +22,7 @@
     "eslint-plugin-react": "^7.12.4",
     "jest": "24.1.0",
     "metro-react-native-babel-preset": "0.51.1",
+    "prettier": "^1.16.4",
     "react-test-renderer": "16.6.3"
   },
   "jest": {
